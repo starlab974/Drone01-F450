@@ -292,7 +292,7 @@ Pour calibrer l’accéléromètre, il faut cliquer sur Calibrate Accel et suivr
 Le logiciel demandera de positionner le drone dans différentes orientations (à l’avant, sur le côté, sur le dos, etc.).
 ⚠️ Assurez-vous que le drone soit bien de niveau avant de commencer la calibration de l’accéléromètre.
 
-![Accel](Images/configuration/4.png)
+![Accel](Images/configuration/4.PNG)
 
 > 2  Compas
 
@@ -304,9 +304,9 @@ Puisque nous avons installé un module GPS avec compas intégré, nous sélectio
 
 <br/> Comme pour l’accéléromètre, le drone doit être bien de niveau avant de lancer la calibration. De plus, il doit pointer vers le **Nord** dans l’onglet *Data*. L’alignement parfait est difficile à obtenir, mais il faut s’en approcher le plus possible.
 
-![Reglage compas](Images/configuration/compas2.png)
+![Reglage compas](Images/configuration/compas2.PNG)
 
-![Reglage compas](Images/configuration/5.png)
+![Reglage compas](Images/configuration/5.PNG)
 
 > 3 Radio
 
